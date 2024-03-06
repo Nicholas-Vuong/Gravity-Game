@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Barrier
+  - Moving
+  - death
+  - wp5
+  - wp6
+  - Cherry
+  - House
+  - Whale
+  - Power
+  - Tube
+  - Portal1
+  - Portal2
+  - Portal3
+  - Portal4
+  - Portal5
+  - Portal6
+  - Gem
+  - Fake
+  - Portal 7
+  - Portal 8
+  - Portal 9
+  - Portal 10
+  - Portal 11
+  - Portal 12
+  - Portal 13
+  - Portal 14
+  - Portal 15
+  - Portal 16
+  - Ladder
+  - Portal 17
+  - Portal 18
+  - Portal 19
+  - Portal 20
+  - Portal 21
+  - Portal 22
+  - Kiwi
+  - House2
+  - Transport
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
